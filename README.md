@@ -1,1 +1,1 @@
-# Kryptologia
+# Affinná šifra
